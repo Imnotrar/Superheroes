@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Superheroes</string>
+    <string name="hero1">Batman</string>
+    <string name="description1">The Dark Knight</string>
+    <string name="hero2">Deadpool</string>
+    <string name="description2">No Good Deed</string>
+    <string name="hero3">Iron Man</string>
+    <string name="description3">Infinity War</string>
+    <string name="hero4">Spiderman</string>
+    <string name="description4">No Way Home</string>
+</resources>
